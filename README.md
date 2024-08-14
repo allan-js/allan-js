@@ -1,6 +1,10 @@
 ## Hi there 👋, I am Allan
 
-I am a Tinker and I build/tinker anything from Electronics, Mechanical Systems to Computer Software.
+I like building stuff from electronics, mechanical systems, and computer software.
+## 🔭 I’m currently working on:
+1. Daraza Gateway. A payment platform that makes it so easy to integrate payments into an application in as little as 5 minutes
+2. GEPA Systems. A compact, modular and scalable Irrigation Automation Computers (called WEMC). It makes it easy and affordable for a small farmer in Africa to automate his irrigation with so much precision as a large-scale farmer in Europe would.
+
 <!--
 **allan-js/allan-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
