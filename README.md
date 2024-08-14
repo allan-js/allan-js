@@ -8,18 +8,7 @@ I like building stuff from electronics, mechanical systems, and computer softwar
 ## I have Built:
 1. Shukrani Foods: A food ordering and delivery service that lets you order restaurant food and groceries for your home comfortably on your mobile device.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allan-js)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=allan-js&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=allan-js&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=allan-js&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-js&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **allan-js/allan-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
