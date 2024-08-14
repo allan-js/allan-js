@@ -3,7 +3,7 @@
 I like building stuff from electronics, mechanical systems, and computer software.
 ## 🔭 I’m currently working on:
 1. Daraza Gateway. A payment platform that makes it so easy to integrate payments into an application in as little as 5 minutes
-2. GEPA Systems 🌱. A compact, modular and scalable Irrigation Automation Computers (called WEMC). It makes it easy and affordable for a small farmer in Africa or Third-world Country to automate his irrigation with so much precision as a large-scale farmer in Europe would.
+2. GEPA Systems 🌱. A compact, modular and scalable Irrigation Automation Computers (called WEMC). It makes it easy and affordable for a small farmer in Africa or a third-world Country to automate his irrigation with as much precision as a large-scale farmer in Europe would.
    
 ## I have Built:
 1. Shukrani Foods: A food ordering and delivery service that lets you order restaurant food and groceries for your home comfortably on your mobile device.
