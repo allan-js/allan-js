@@ -1,4 +1,4 @@
-## Hi there 👋, I am Allan
+# Hi there 👋, I am Allan
 
 I like building stuff from electronics, mechanical systems, and computer software.
 ## 🔭 I’m currently working on:
