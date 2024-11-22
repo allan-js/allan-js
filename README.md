@@ -1,6 +1,7 @@
 # Hi there 👋, I am Allan
 
 I like building stuff. I build electronics, mechanical systems, and computer software.
+
 ## 🔭 I’m currently working on:
 1. Daraza Gateway. A payment platform that makes it so easy to integrate payments into your application in a matter of 5 minutes
    www.daraza.net
