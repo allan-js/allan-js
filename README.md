@@ -8,7 +8,7 @@ I like building stuff. I build electronics, mechanical systems, and computer sof
    
 3. GEPA Systems 🌱. A compact, modular and scalable Irrigation Automation Computer (called WEM-C). It is easy to use and affordable for a small farmer in Africa or any third-world Country. It enables him/her to automate his/her irrigation with as much precision as a large-scale farmer in Europe would.
    [www.gepa.gu.ac.ug](https://gepa.gu.ac.ug/)
-   ##### To support or invest in GEPA Systems, reach out to me directly through email or on social media or visit us at Gulu University, Department of Computer Science
+   ##### To contribute or invest in GEPA Systems or any of these projects, reach out to me directly through email, on social media or visit us at Gulu University, Department of Computer Science
 ## I have Built:
 1. Shukrani Foods: A food ordering and delivery service that lets you conveniently order restaurant food and groceries on your mobile device.
    www.shukrani.shop
