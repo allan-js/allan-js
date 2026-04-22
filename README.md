@@ -1,6 +1,6 @@
 # Hi there 👋, I am Allan
 
-I like building stuff. I build electronics, mechanical systems, and computer software.
+I build stuff from electronics, mechanical systems, to computer software.
 
 ## 🔭 I’m currently working on:
    
